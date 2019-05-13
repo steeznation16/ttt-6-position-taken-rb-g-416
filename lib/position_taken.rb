@@ -5,5 +5,4 @@ def position_taken?
     taken = false
   else
     taken = true
-    
 end
