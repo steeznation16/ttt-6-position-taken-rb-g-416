@@ -6,4 +6,3 @@ def position_taken?
   else
     taken = true
 end
-taken
